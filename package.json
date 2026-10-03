@@ -1,0 +1,25 @@
+{
+  "name": "applications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harikuruva2003/applications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/harikuruva2003/applications/issues"
+  },
+  "homepage": "https://github.com/harikuruva2003/applications#readme",
+  "devDependencies": {
+    "nx": "23.2.1"
+  },
+  "nx": {}
+}
